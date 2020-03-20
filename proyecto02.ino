@@ -1,3 +1,6 @@
+/*
+Creator: Miguel Ángel Niño
+*/
 int switchState1 = 0;
 int switchState2 = 0; 
 
